@@ -4,7 +4,7 @@ export default function Header() {
   return (
     <header>
       <div className='header-inner'>
-        <div className='logo'>AIDEN.WTF</div>
+        <div className='logo'> </div>
         <nav>
           <ul>
             <li>
